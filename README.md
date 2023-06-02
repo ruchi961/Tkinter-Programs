@@ -3,15 +3,18 @@ Contains Python Tkinter programs (Emojis/Tweety/Scenary).
 
 **Output:**
 
+
+* **Emoji_ZipMouth.py**
+
+          
+<img src="https://github.com/ruchi961/Tkinter-Programs/assets/128241982/c2c760cc-5e61-47bd-ba64-d0310e0cd9e2" height=450> 
+
+
 * **Emoji_Smile.py**
 
 
 <img src="https://github.com/ruchi961/Tkinter-Programs/assets/128241982/d6c2ab04-c805-4ef4-8d26-8e1ba5457bd3" height=450>
 
-* **Emoji_ZipMouth.py**
-
-          
-<img src="https://github.com/ruchi961/Tkinter-Programs/assets/128241982/c2c760cc-5e61-47bd-ba64-d0310e0cd9e2" height=450>
 
 * **Emoji_1.py**
 

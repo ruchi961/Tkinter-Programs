@@ -8,6 +8,16 @@ Contains **Python Tkinter programs** to draw Emojis/Tweety/Scenary.
 
 * <b>Date Created :</b> February 2020
 
+## > Packages used
+* Tkinter
+
+## > Install Dependencies (Packages)
+```
+cd to scripts_Folder
+```
+```
+pip install tkinter
+```
 
 ## > Output 
 
